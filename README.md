@@ -5,7 +5,7 @@ Healthy leaf
 ![image](https://user-images.githubusercontent.com/95140809/185398541-7057ed6d-4227-47df-ac7e-73d8fdae1ee0.png)
 
 Early blight
-0a6983a5-895e-4e68-9edb-88adf79211e9___RS_Early.B%209072.JPG
+![image](https://user-images.githubusercontent.com/95140809/185398631-dcda9aed-9543-44ae-9541-d309c836ba1b.png)
 
 Late blight
-0b2bdc8e-90fd-4bb4-bedb-485502fe8a96___RS_LB%204906.JPG
+![image](https://user-images.githubusercontent.com/95140809/185398660-c75e4704-c8d0-49ae-bf30-55bcf37e5067.png)
