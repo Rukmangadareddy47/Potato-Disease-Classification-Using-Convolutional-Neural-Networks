@@ -9,3 +9,5 @@ Early blight
 
 Late blight
 ![image](https://user-images.githubusercontent.com/95140809/185398660-c75e4704-c8d0-49ae-bf30-55bcf37e5067.png)
+
+The Convolutional Neural Network model is developed to classify the entire dataset into these three categories
